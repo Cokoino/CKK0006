@@ -5,6 +5,7 @@ Cokoino mechanical arm source code
  * This code applies to cokoino mechanical arm
  * You can download the assembly and use tutorial with this link:
  * http://www.mediafire.com/folder/y05vapihg6w89/CKK0006
+ * https://drive.google.com/open?id=1hB16YUem9ElcXo3WozofZPkBhEomyExC
  * Company web site:
  * http://cokoino.com/
  *                                     ________
