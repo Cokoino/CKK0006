@@ -5,6 +5,7 @@
 ![](https://github.com/Cokoino/CKK0006/raw/master/download.png)
 
 # Cokoino mechanical arm source code
+```c++
 - This code applies to cokoino mechanical arm
 - Company web site:
 - http://cokoino.com/
@@ -46,3 +47,4 @@
 - arm.JoyStickL.read_y();
 - arm.JoyStickR.read_x();
 - arm.JoyStickR.read_y();
+```
