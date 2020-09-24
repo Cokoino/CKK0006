@@ -2,7 +2,7 @@
 # Download
 - Click the "Clone" button, then click "Download ZIP" button in the pop-up window. Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
 
-![](https://https://github.com/Cokoino/CKK0006/raw/master/download.png)
+![](https://github.com/Cokoino/CKK0006/raw/master/download.png)
 
 # Cokoino mechanical arm source code
 - This code applies to cokoino mechanical arm
