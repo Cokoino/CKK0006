@@ -1,6 +1,6 @@
 # CKK0006
 # Download
-- Click the "Clone" button, then click "Download ZIP" button in the pop-up window. Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
+- Click the "Code" button, then click "Download ZIP" button in the pop-up window. Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
 
 ![](https://github.com/Cokoino/CKK0006/raw/master/download.png)
 
