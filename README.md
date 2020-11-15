@@ -1,7 +1,7 @@
 # CKK0006
 - Robot arm for arduino.
 # Download
-- Click the "Code" button, then click "Download ZIP" button in the pop-up window. Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
+- Click the "Code" button, then click "Download ZIP" button in the pop-up window. Do NOT click the "Open with GitHub Desktop" button, it will lead you to install Github software.
 
 ![](https://github.com/Cokoino/CKK0006/raw/master/download.png)
 
@@ -49,3 +49,11 @@ arm.JoyStickL.read_y();
 arm.JoyStickR.read_x();
 arm.JoyStickR.read_y();
 ```
+
+# Trouble shooting:
+- Bottom servomotor does not rotate smoothly?
+- Reply:During installation in step 9 of course 6.2, the self-locking nut must not be too tightly locked.
+
+- The rotation attitude of the manipulator is inconsistent with the course description?
+- Reply:Be sure to initialize the servomotor as per lesson 6.1 before installing the robotic arm.
+-       Be sure to install the arm in the assembly pose as described in lesson 6.2.
