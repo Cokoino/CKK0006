@@ -55,5 +55,4 @@ arm.JoyStickR.read_y();
 - Reply:During installation in step 9 of course 6.2, the self-locking nut must not be too tightly locked.
 
 - The rotation attitude of the manipulator is inconsistent with the course description?
-- Reply:Be sure to initialize the servomotor as per lesson 6.1 before installing the robotic arm.
--       Be sure to install the arm in the assembly pose as described in lesson 6.2.
+- Reply:1.Be sure to initialize the servomotor as per lesson 6.1 before installing the robotic arm.  2.Be sure to install the arm in the assembly pose as described in lesson 6.2.
