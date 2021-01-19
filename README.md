@@ -6,7 +6,7 @@
 ![](https://github.com/Cokoino/CKK0006/raw/master/download.png)
 
 # Technical support
-- Email: jex-spt@outlook.com
+- Email: cokoino@outlook.com
 
 # Cokoino mechanical arm source code
 ```c++
