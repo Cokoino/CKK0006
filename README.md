@@ -53,9 +53,8 @@ arm.JoyStickR.read_x();
 arm.JoyStickR.read_y();
 ```
 
-# Trouble shooting:
-- Bottom servomotor does not rotate smoothly?
-- Reply:During installation in step 9 of course 6.2, the self-locking nut must not be too tightly locked.
-
-- The rotation attitude of the manipulator is inconsistent with the course description?
-- Reply:1.Be sure to initialize the servomotor as per lesson 6.1 before installing the robotic arm.  2.Be sure to install the arm in the assembly pose as described in lesson 6.2.
+# Contact us:
+- Email: cokoino@outlook.com
+- Company website address：http://cokoino.com/
+- Facebook：https://www.facebook.com/cokoino.lk
+- Amazon: https://www.amazon.com/stores/COKOINO/page/D21BC7AE-4404-4508-89AA-BEDE7718902C?ref_=ast_bln
