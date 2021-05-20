@@ -1,0 +1,1 @@
+CH340/CH341 USB to serial port LINUX driver£¬supports 32/64-bit operation system.
