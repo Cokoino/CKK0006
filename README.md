@@ -1,5 +1,3 @@
-# CKK0006
-- Robot arm for arduino.
 # How to download the Tutorial documents
 - Click the "Code" button, then click "Download ZIP" button in the pop-up window.
 - Do NOT click the "Open with GitHub Desktop" button, it will lead you to install Github software.
@@ -11,6 +9,8 @@
 
 ![](https://github.com/Cokoino/CKK0006/raw/master/download.png)
 
+# CKK0006
+- Robot arm for arduino.
 # Technical support
 - Email: cokoino@outlook.com
 
