@@ -49,7 +49,7 @@
 CokoinoArm arm;
 int xL,yL,xR,yR;
 
-const int act_max=10;    //Default 10 action,4 the Angle of servo
+const int act_max=170;    //Default 10 action,4 the Angle of servo
 int act[act_max][4];    //Only can change the number of action
 int num=0,num_do=0;
 ///////////////////////////////////////////////////////////////
